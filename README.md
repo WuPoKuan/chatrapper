@@ -61,3 +61,4 @@ Demo:
 # Notes
 - 一定要保护好自己的 token，不要泄露给他人。
 - 合理使用 API，调用频率不宜过高，树大易招风，避免触发风控。
+- [教學影片](https://www.youtube.com/watch?v=jUy7Y9YA9Y4&ab_channel=%E7%90%86%E6%83%B3%E6%8B%96)
